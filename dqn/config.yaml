@@ -1,0 +1,6 @@
+#Hyperparameters
+---
+gamma : 0.99
+lr: 2.5e-4
+tau: 10000
+buffer_size: 10000

@@ -1,0 +1,5 @@
+---
+#VPG hyperparameters
+lr : 1.0e-3
+epsilon : 1.0e-6
+gamma: 0.99
